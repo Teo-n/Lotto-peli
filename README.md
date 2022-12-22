@@ -1,3 +1,3 @@
-# Lotto-peli
-Yksinkertainen konsolissa pelattava lottopeli.
-Käyttäjän tulee syöttää seitsemän lukua väliltä 1-40. Sen jälkeen sovellus suorittaa arvonnan ja kertoo, kuinka monta lukua käyttäjä onnistui arvaamaan oikein.
+# Lottery game
+Simple lottery game played in the developer console.
+User must submit seven numbers between 1 and 40, after which the program executes the drawing of the numbers and prints how many user-submitted numbers matched the drawn numbers.
